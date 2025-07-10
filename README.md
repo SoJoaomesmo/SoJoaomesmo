@@ -11,7 +11,7 @@
 
 # ⚙️ Projetos:
 [![Etânomico](https://img.shields.io/badge/Et%C3%A2nomico-darkgreen)](https://github.com/schumann7/etanomico-public)
-[![GeoHunting - Em desenvolvimento](https://img.shields.io/badge/GeoHunting-green)](https://github.com/schumann7/geo-hunting)
+[![GeoHunting](https://img.shields.io/badge/GeoHunting%20(Em%20desenvolvimento)-green)](https://github.com/schumann7/geo-hunting)
 
 # 👨‍💻Principais linguagens:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
