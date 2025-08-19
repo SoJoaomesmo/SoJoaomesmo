@@ -9,9 +9,9 @@
 # 🌐 Links:
 [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/sojoao/)
 
-# ⚙️ Projetos:
+# ⚙️ Projetos em Destaque:
 [![Etânomico](https://img.shields.io/badge/Et%C3%A2nomico-darkgreen?style=for-the-badge&logo=flutter)](https://github.com/schumann7/etanomico-public)
-[![GeoHunting](https://img.shields.io/badge/GeoHunting%20(Em%20desenvolvimento)%20-green?style=for-the-badge&logo=flutter)](https://github.com/schumann7/geo-hunting)
+[![GeoHunting](https://img.shields.io/badge/GeoHunting-green?style=for-the-badge&logo=flutter)](https://github.com/schumann7/geo-hunting)
 
 # 👨‍💻Principais linguagens:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
