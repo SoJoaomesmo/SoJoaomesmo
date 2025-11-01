@@ -3,7 +3,7 @@
 🥇 Nível B2 em inglês na escala CEFR<br>
 🔭 Desenvolvendo meus projetos pessoais, Trabalhando em meu portifólio!<br>
 🌱 Aprimorando minhas habilidades em Banco de Dados e APIs!<br>
-💬 Desenvolvedor Back-end<br>
+💬 Desenvolvedor com foco em Back-end<br>
 ⚡ Um fato interessante sobre mim: já estudei LIBRAS, possuindo conhecimento básico da língua.
 
 # 🌐 Links:
@@ -12,6 +12,7 @@
 # ⚙️ Projetos em Destaque:
 [![Etânomico](https://img.shields.io/badge/Et%C3%A2nomico-darkgreen?style=for-the-badge&logo=flutter)](https://github.com/schumann7/etanomico-public)
 [![GeoHunting](https://img.shields.io/badge/GeoHunting-green?style=for-the-badge&logo=flutter)](https://github.com/schumann7/geo-hunting)
+[![SOLUCIONA](https://img.shields.io/badge/SOLUCIONA-darkblue?style=for-the-badge&logo=flutter)](https://github.com/Romulooo/Soluciona)
 
 # 👨‍💻Principais linguagens:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -23,6 +24,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostGres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # 🧩 Frameworks favoritos:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
