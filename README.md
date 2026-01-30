@@ -8,7 +8,7 @@
 
 # 🌐 Links:
 [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/sojoao/)
-[![Meu Portifólio]((https://img.shields.io/badge/Meu%20Portifólio-grey?style=for-the-badge))](https://joao-peruzzo.vercel.app)
+[![Meu Portifólio](https://img.shields.io/badge/Meu%20Portifólio-grey?style=for-the-badge)](https://joao-peruzzo.vercel.app)
 
 # ⚙️ Projetos em Destaque:
 [![Etânomico](https://img.shields.io/badge/Et%C3%A2nomico-darkgreen?style=for-the-badge&logo=flutter)](https://github.com/schumann7/etanomico-public)
