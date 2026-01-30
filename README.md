@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🧠 Estudo no Instituto Federal de Educação, Ciência e Tecnologia Catarinense - Informática para Internet<br>
+🧠 Formado pelo Instituto Federal de Educação, Ciência e Tecnologia Catarinense - Informática para Internet<br>
 🥇 Nível B2 em inglês na escala CEFR<br>
 🔭 Desenvolvendo meus projetos pessoais, Trabalhando em meu portifólio!<br>
 🌱 Aprimorando minhas habilidades em Banco de Dados e APIs!<br>
@@ -8,6 +8,7 @@
 
 # 🌐 Links:
 [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/sojoao/)
+[![Meu Portifólio]((https://img.shields.io/badge/Meu%20Portifólio-grey?style=for-the-badge))](https://joao-peruzzo.vercel.app)
 
 # ⚙️ Projetos em Destaque:
 [![Etânomico](https://img.shields.io/badge/Et%C3%A2nomico-darkgreen?style=for-the-badge&logo=flutter)](https://github.com/schumann7/etanomico-public)
@@ -25,8 +26,10 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostGres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 # 🧩 Frameworks favoritos:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![BootStrap](https://img.shields.io/badge/bootstrap-%23646CFF.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
