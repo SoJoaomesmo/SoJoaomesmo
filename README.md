@@ -13,7 +13,6 @@
 <div >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoJoaomesmo&theme=vue-dark&hide_border=true" alt="Estatísticas de Streak do João" />
   <br><br>
-  <img src="https://api.githubstats.com.br/user/SoJoaomesmo?theme=dracula" alt="Estatísticas do GitHub" />
 </div>
 
 ---
