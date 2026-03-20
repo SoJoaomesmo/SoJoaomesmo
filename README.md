@@ -6,6 +6,18 @@
 💬 Desenvolvedor com foco em Back-end<br>
 ⚡ Um fato interessante sobre mim: já estudei LIBRAS, possuindo conhecimento básico da língua.
 
+---
+
+### 📊 Estatísticas do GitHub:
+
+<div >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoJoaomesmo&theme=vue-dark&hide_border=true" alt="Estatísticas de Streak do João" />
+  <br><br>
+  <img src="https://api.githubstats.com.br/user/SoJoaomesmo?theme=dracula" alt="Estatísticas do GitHub" />
+</div>
+
+---
+
 # 🌐 Links:
 [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/sojoao/)
 [![Meu Portifólio](https://img.shields.io/badge/Meu%20Portifólio-grey?style=for-the-badge)](https://joao-peruzzo.vercel.app)
