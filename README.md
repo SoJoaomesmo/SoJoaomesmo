@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
 🧠 Formado pelo Instituto Federal de Educação, Ciência e Tecnologia Catarinense - Informática para Internet<br>
-🥇 Nível B2 em inglês na escala CEFR<br>
+🥇 Nível C1 em inglês na escala CEFR<br>
 🔭 Desenvolvendo meus projetos pessoais, Trabalhando em meu portifólio!<br>
 🌱 Aprimorando minhas habilidades em Banco de Dados e APIs!<br>
 💬 Desenvolvedor com foco em Back-end<br>
