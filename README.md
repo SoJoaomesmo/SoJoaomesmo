@@ -19,7 +19,8 @@
 
 # 🌐 Links:
 [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/sojoao/)
-[![Meu Portifólio](https://img.shields.io/badge/Meu%20Portifólio-grey?style=for-the-badge)](https://joao-peruzzo.vercel.app)
+[![Meu Portfólio](https://img.shields.io/badge/Meu%20Portfólio-grey?style=for-the-badge&logo=todoist&logoColor=white)](https://joao-peruzzo.vercel.app)
+[![Meu Email](https://img.shields.io/badge/Meu%20Email-red?style=for-the-badge&logo=email)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDZqdFncmZKllbvHmqKVsvlKdDGrqswRhJBxpBWlJJFhhCtrjpwhWQSPWsvsVcrQfMVmTMR)
 
 # ⚙️ Projetos em Destaque:
 [![Etânomico](https://img.shields.io/badge/Et%C3%A2nomico-darkgreen?style=for-the-badge&logo=flutter)](https://github.com/schumann7/etanomico-public)
