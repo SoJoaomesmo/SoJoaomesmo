@@ -18,7 +18,7 @@
 ---
 
 # 🌐 Links:
-[![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/sojoao/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/joaoperuzzo/)
 [![Meu Portfólio](https://img.shields.io/badge/Meu%20Portfólio-grey?style=for-the-badge&logo=todoist&logoColor=white)](https://joao-peruzzo.vercel.app)
 [![Meu Email](https://img.shields.io/badge/Meu%20Email-red?style=for-the-badge&logo=email)](mailto:contato@joaoperuzzo.me)
 
