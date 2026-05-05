@@ -4,7 +4,7 @@
 🥇 Nível C1 em inglês na escala CEFR<br>
 🔭 Desenvolvendo meus projetos pessoais, Trabalhando em meu portifólio!<br>
 🌱 Aprimorando minhas habilidades em Banco de Dados e APIs!<br>
-💬 Desenvolvedor com foco em Back-end<br>
+💬 Desenvolvedor FullStack<br>
 ⚡ Um fato interessante sobre mim: já estudei LIBRAS, possuindo conhecimento básico da língua.
 
 # 🌐 Links:
@@ -16,7 +16,7 @@
 ## 📊 Estatísticas do GitHub:
 
 <div >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoJoaomesmo&theme=vue-dark&hide_border=true" alt="Estatísticas de Streak do João" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoJoaomesmo&theme=vue-dark&hide_border=true" alt="Minhas estatísticas de streak" />
   <br><br>
 </div>
 
