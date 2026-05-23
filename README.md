@@ -25,6 +25,8 @@
 [![Etânomico](https://img.shields.io/badge/Et%C3%A2nomico-darkgreen?style=for-the-badge&logo=flutter)](https://github.com/schumann7/etanomico-public)
 [![GeoHunting](https://img.shields.io/badge/GeoHunting-green?style=for-the-badge&logo=flutter)](https://github.com/schumann7/geo-hunting)
 [![SOLUCIONA](https://img.shields.io/badge/SOLUCIONA-darkblue?style=for-the-badge&logo=flutter)](https://github.com/Romulooo/Soluciona)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)](https://github.com/SoJoaomesmo/portfolio)
+[![TMDB Server](https://img.shields.io/badge/TMDB%20Server-032541?style=for-the-badge&logo=Node.js&logoColor=white)](https://github.com/SoJoaomesmo/TMDB-Server)
 
 ## 👨‍💻Principais linguagens:
 
